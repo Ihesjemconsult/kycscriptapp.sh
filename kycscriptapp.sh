@@ -1,5 +1,17 @@
 #!/bin/bash
 
+function NigeriaAirways() {
+    echo "Nigeria Airways is bound to be relaunched this year 2025."
+    echo "Watch out for a classic passenger treat!!"
+    echo "Alternatively, you can board the best listed aviation companies operating in Nigeria such as:"
+    echo "1. Airpeace"
+    echo "2. British Airways"
+    echo "3. Arik Air"
+    echo "--------------------------------------------------------"
+
+}
+NigeriaAirways
+
 echo "Welcome to TravelEasy KYC Verification"
 
 # Collect Full Name
