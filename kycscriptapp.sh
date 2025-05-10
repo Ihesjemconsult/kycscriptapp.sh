@@ -1,7 +1,7 @@
 #!/bin/bash
 
 function NigeriaAirways() {
-    echo "Nigeira Airways is bound to be relaunched this year 2025."
+    echo "Nigeria Airways is bound to be relaunched this year 2025."
     echo "Watch out for a classic passenger treat!!"
     echo "Alternatively, you can board the best listed aviation companies operating in Nigeria such as:"
     echo "1. Airpeace"
