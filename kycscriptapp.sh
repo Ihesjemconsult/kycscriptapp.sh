@@ -1,5 +1,15 @@
 #!/bin/bash
 
+#creating a note function
+function nigeria_airways(){
+	echo "Nigeria Airways is on it's way to wow the market"
+	echo  " Get ready to patronize us as soon as possible"
+}
+
+#calling function nigeria_airways
+nigeria_airways
+
+
 echo "Welcome to TravelEasy KYC Verification"
 
 # Collect Full Name
